@@ -16,7 +16,7 @@ const Accomplishments = () => (
         <BoxText>{`Freelance Projects Completed So Far`}</BoxText>
       </Box>
       <Box>
-        <BoxNum>{`Merit Based Scholarship`}</BoxNum>
+        <BoxNum>{`Merit Scholarship`}</BoxNum>
         <BoxText>{`2nd Semester`}</BoxText>
       </Box>
       <Box>
@@ -25,7 +25,7 @@ const Accomplishments = () => (
       </Box>
       <Box>
         <BoxNum>{`Dean's List`}</BoxNum>
-        <BoxText>{`3rd Position in batch - 2nd Semester`}</BoxText>
+        <BoxText>{`3rd Position - 2nd Semester`}</BoxText>
       </Box>
     </Boxes>
     <SectionDivider />

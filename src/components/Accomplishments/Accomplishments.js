@@ -25,7 +25,7 @@ const Accomplishments = () => (
       </Box>
       <Box>
         <BoxNum>{`Dean's List`}</BoxNum>
-        <BoxText>{`3rd Position - 2nd Semester`}</BoxText>
+        <BoxText>{`3rd Position in 2nd Semester`}</BoxText>
       </Box>
     </Boxes>
     <SectionDivider />

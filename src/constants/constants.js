@@ -5,8 +5,9 @@ export const projects = [
       "A one-stop place for all kinds of home & office daily-chores, ranging from Mechanics, Electricians to Garderners & Tutors etc.",
     image: "/images/0.png",
     tags: ["MongoDB", "Express", "React", "Node", "React Native"],
-    source: "https://github.com/omarfarooqkhan1/ROOZGAR-Vendor",
-    visit: "https://youtu.be/MQwo-1Qb9us",
+    source: "https://github.com/omarfarooqkhan1/ROOZGAR-Vendor-60",
+    visit:
+      "https://www.youtube.com/playlist?list=PL1e4S5CGetuMMlCKgCY1nnaptk1h9EPjH",
     id: 0,
   },
   {

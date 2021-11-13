@@ -32,7 +32,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.JS, React Native, jQuery & Bootstrap
+            NEXT.JS, React.JS, React Native, jQuery & Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +44,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.JS, Django, PHP & Firebase
+            NestJS, Node.JS, Django, PHP & Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>

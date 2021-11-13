@@ -12,12 +12,12 @@ const Accomplishments = () => (
     <SectionTitle>My Accomplishments</SectionTitle>
     <Boxes>
       <Box>
-        <BoxNum>{`5+`}</BoxNum>
+        <BoxNum>{`7+`}</BoxNum>
         <BoxText>{`Freelance Projects Completed So Far`}</BoxText>
       </Box>
       <Box>
-        <BoxNum>{`1300+`}</BoxNum>
-        <BoxText>{`LinkedIn Followers`}</BoxText>
+        <BoxNum>{`Merit Scholarship`}</BoxNum>
+        <BoxText>{`2nd Semester - COMSATS University Islamabad`}</BoxText>
       </Box>
       <Box>
         <BoxNum>{`Certified`}</BoxNum>
@@ -25,7 +25,7 @@ const Accomplishments = () => (
       </Box>
       <Box>
         <BoxNum>{`Dean's List`}</BoxNum>
-        <BoxText>{`3rd Position in batch - 2nd Semester`}</BoxText>
+        <BoxText>{`3rd Position in entire batch - 2nd Semester`}</BoxText>
       </Box>
     </Boxes>
     <SectionDivider />

@@ -24,7 +24,7 @@ const Header = () => (
             marginBottom: 20,
           }}
         >
-          <DiCssdeck size="3rem" /> <span>My Portfolio</span>
+          <DiCssdeck size="3rem" /> <span>Personal Portfolio</span>
         </a>
       </Link>
     </Div1>
@@ -46,7 +46,7 @@ const Header = () => (
       </li>
       <li>
         <a
-          href="https://drive.google.com/file/d/1pz6IP44GoETtEurTp_wZUcSKQV7CQ2RF/view"
+          href="https://drive.google.com/file/d/1rBz1Z1TMYqRIi0f99pyOvQJc_DkFU7Jx/view"
           target="_blank"
         >
           <NavLink>Resume</NavLink>

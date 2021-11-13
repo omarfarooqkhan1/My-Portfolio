@@ -23,10 +23,6 @@ const Footer = () => {
       <SectionTitle>Contact Info</SectionTitle>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:+92-304-0069010">+92-304-0069010</LinkItem>
-        </LinkColumn>
-        <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:omarfarooqkhan@outlook.com">
             omarfarooqkhan@outlook.com
